@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea47f606-d6f6-4749-a4b3-4140f7e0975d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FedhaYouthGroup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FedhaYouthGroupSystem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdminBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdminBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Deposits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deposits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FedhaDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FedhaDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoginAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoginAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MemberInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MemberInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Members.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Members.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menubar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Menubar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MonthlyRepayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MonthlyRepayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RegisterAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RegisterAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Resource/Register.jpeg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2n4C8vRKNhEdGNnN2HT9eeAnAOo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AdminBar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dashboard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Deposits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FedhaDatabase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FedhaYouthGroup.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FixedDeposits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Login.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoginAdmin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MemberInformation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Members.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Menubar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MonthlyRepayment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProgressBar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Register.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RegisterAdmin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reports.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Taskbar.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE&quot;: &quot;right&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH&quot;: &quot;137&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE&quot;: &quot;left&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mousa/IdeaProjects/FedhaYouthGroup/src/Resource&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;,
+      &quot;java.sql.Driver&quot;,
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Resource" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$USER_HOME$/.jdks/openjdk-23!/jdk.management" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProgressBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgressBar" />
+      <module name="FedhaYouthGroupSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProgressBar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.153" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea47f606-d6f6-4749-a4b3-4140f7e0975d" name="Changes" comment="" />
+      <created>1728222809094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728222809094</updated>
+      <workItem from="1728222810095" duration="58000" />
+      <workItem from="1728227070134" duration="2740000" />
+      <workItem from="1728234047012" duration="829000" />
+      <workItem from="1728239623635" duration="6484000" />
+      <workItem from="1728289858361" duration="191000" />
+      <workItem from="1728326253180" duration="5939000" />
+      <workItem from="1728367664475" duration="2890000" />
+      <workItem from="1728372809926" duration="1245000" />
+      <workItem from="1728634517312" duration="3651000" />
+      <workItem from="1728649209141" duration="10426000" />
+      <workItem from="1728661918675" duration="96000" />
+      <workItem from="1728667832104" duration="2178000" />
+      <workItem from="1728711342992" duration="515000" />
+      <workItem from="1728734643918" duration="3167000" />
+      <workItem from="1728740872818" duration="1541000" />
+      <workItem from="1728748600316" duration="333000" />
+      <workItem from="1728751416527" duration="295000" />
+      <workItem from="1728755904580" duration="1808000" />
+      <workItem from="1728799503898" duration="2634000" />
+      <workItem from="1728895716362" duration="2679000" />
+      <workItem from="1728909746414" duration="404000" />
+      <workItem from="1728930293406" duration="7320000" />
+      <workItem from="1728973292554" duration="561000" />
+      <workItem from="1728977177404" duration="340000" />
+      <workItem from="1728977801658" duration="623000" />
+      <workItem from="1728980756168" duration="4946000" />
+      <workItem from="1728988390171" duration="132000" />
+      <workItem from="1728990384830" duration="1429000" />
+      <workItem from="1728998519081" duration="402000" />
+      <workItem from="1729001811543" duration="1033000" />
+      <workItem from="1729003112919" duration="2665000" />
+      <workItem from="1729006179705" duration="94000" />
+      <workItem from="1729011774216" duration="1159000" />
+      <workItem from="1729019194653" duration="1980000" />
+      <workItem from="1729079985384" duration="90000" />
+      <workItem from="1729089676813" duration="284000" />
+      <workItem from="1729090195162" duration="127000" />
+      <workItem from="1729090806246" duration="3666000" />
+      <workItem from="1729146431658" duration="1246000" />
+      <workItem from="1729176655005" duration="1488000" />
+      <workItem from="1729178211198" duration="3573000" />
+      <workItem from="1729183582858" duration="458000" />
+      <workItem from="1729192214716" duration="724000" />
+      <workItem from="1729197729250" duration="228000" />
+      <workItem from="1729239859577" duration="1281000" />
+      <workItem from="1729262643933" duration="378000" />
+      <workItem from="1729267339629" duration="1113000" />
+      <workItem from="1729268738306" duration="1620000" />
+      <workItem from="1729278818587" duration="4854000" />
+      <workItem from="1729306550201" duration="202000" />
+      <workItem from="1729309443799" duration="9561000" />
+      <workItem from="1729325672805" duration="49000" />
+      <workItem from="1729331149571" duration="9926000" />
+      <workItem from="1729352949664" duration="411000" />
+      <workItem from="1729397895500" duration="4144000" />
+      <workItem from="1729410668719" duration="11673000" />
+      <workItem from="1729423389296" duration="4765000" />
+      <workItem from="1729492501118" duration="7836000" />
+      <workItem from="1729508368311" duration="33000" />
+      <workItem from="1729526149218" duration="1711000" />
+      <workItem from="1729534579225" duration="214000" />
+      <workItem from="1729539419364" duration="1279000" />
+      <workItem from="1729574086569" duration="1451000" />
+      <workItem from="1729577508085" duration="2627000" />
+      <workItem from="1729582211131" duration="2944000" />
+      <workItem from="1729611759931" duration="1314000" />
+      <workItem from="1729688574435" duration="5743000" />
+      <workItem from="1729702926095" duration="2234000" />
+      <workItem from="1729708471819" duration="4944000" />
+      <workItem from="1729741119590" duration="1917000" />
+      <workItem from="1729751179503" duration="5076000" />
+      <workItem from="1729772986474" duration="86000" />
+      <workItem from="1729774619355" duration="9881000" />
+      <workItem from="1729824299398" duration="17780000" />
+      <workItem from="1729918574289" duration="15014000" />
+      <workItem from="1729975749795" duration="513000" />
+      <workItem from="1730001046035" duration="6974000" />
+      <workItem from="1730009872295" duration="1141000" />
+      <workItem from="1730020572329" duration="3441000" />
+      <workItem from="1730085644864" duration="1236000" />
+      <workItem from="1730116022478" duration="1464000" />
+      <workItem from="1730124893423" duration="2603000" />
+      <workItem from="1730135081795" duration="1830000" />
+      <workItem from="1730169784856" duration="8830000" />
+      <workItem from="1730190366614" duration="4374000" />
+      <workItem from="1730197016925" duration="242000" />
+      <workItem from="1730201124597" duration="5579000" />
+      <workItem from="1730210356817" duration="1864000" />
+      <workItem from="1730266418260" duration="4042000" />
+      <workItem from="1730272180210" duration="3672000" />
+      <workItem from="1730353604715" duration="8428000" />
+      <workItem from="1730382767979" duration="280000" />
+      <workItem from="1730384606757" duration="6327000" />
+      <workItem from="1730486312724" duration="1052000" />
+      <workItem from="1730540546706" duration="380000" />
+      <workItem from="1730540949141" duration="600000" />
+      <workItem from="1730635710167" duration="4462000" />
+      <workItem from="1730656921794" duration="698000" />
+      <workItem from="1730664869278" duration="1108000" />
+      <workItem from="1730716813085" duration="8212000" />
+      <workItem from="1730787678805" duration="19912000" />
+      <workItem from="1730868539741" duration="2367000" />
+      <workItem from="1730875525267" duration="22502000" />
+      <workItem from="1730988019415" duration="1401000" />
+      <workItem from="1731061537922" duration="16684000" />
+      <workItem from="1731096577585" duration="525000" />
+      <workItem from="1731099961526" duration="1011000" />
+      <workItem from="1731155368117" duration="5229000" />
+      <workItem from="1731213974181" duration="11495000" />
+      <workItem from="1731265561029" duration="898000" />
+      <workItem from="1731316037158" duration="20897000" />
+      <workItem from="1731405227921" duration="16298000" />
+      <workItem from="1731478309678" duration="366000" />
+      <workItem from="1731498703449" duration="3923000" />
+      <workItem from="1731502980039" duration="499000" />
+      <workItem from="1731505574944" duration="43000" />
+      <workItem from="1731523438464" duration="1738000" />
+      <workItem from="1731573064333" duration="540000" />
+      <workItem from="1731601814279" duration="383000" />
+      <workItem from="1731606479942" duration="208000" />
+      <workItem from="1731657797380" duration="3241000" />
+      <workItem from="1731661069806" duration="21670000" />
+      <workItem from="1731693005707" duration="5634000" />
+      <workItem from="1731734060314" duration="11974000" />
+      <workItem from="1731755334944" duration="3582000" />
+      <workItem from="1731764544171" duration="14709000" />
+      <workItem from="1731826363826" duration="1200000" />
+      <workItem from="1731844696302" duration="29445000" />
+      <workItem from="1731904796010" duration="1986000" />
+      <workItem from="1731931157772" duration="1327000" />
+      <workItem from="1731939497287" duration="233000" />
+      <workItem from="1731940468037" duration="1006000" />
+      <workItem from="1731954419426" duration="7509000" />
+      <workItem from="1731997917994" duration="4058000" />
+      <workItem from="1732023847077" duration="331000" />
+      <workItem from="1732038275315" duration="389000" />
+      <workItem from="1732043196175" duration="3193000" />
+      <workItem from="1732273188815" duration="298000" />
+      <workItem from="1732350883641" duration="304000" />
+      <workItem from="1732351272442" duration="39000" />
+      <workItem from="1732371679798" duration="48000" />
+      <workItem from="1733232705400" duration="1968000" />
+      <workItem from="1733298008709" duration="501000" />
+      <workItem from="1733416779512" duration="1472000" />
+      <workItem from="1733474882184" duration="7160000" />
+      <workItem from="1733574211183" duration="2400000" />
+      <workItem from="1733645181194" duration="678000" />
+      <workItem from="1733673609901" duration="88000" />
+      <workItem from="1733675657532" duration="1026000" />
+      <workItem from="1733725282497" duration="5634000" />
+      <workItem from="1733736566855" duration="5732000" />
+      <workItem from="1733755427299" duration="7078000" />
+      <workItem from="1733808435133" duration="5850000" />
+      <workItem from="1733819128593" duration="373000" />
+      <workItem from="1733822736399" duration="2383000" />
+      <workItem from="1733826642943" duration="826000" />
+      <workItem from="1733830267031" duration="491000" />
+      <workItem from="1734619854789" duration="208000" />
+      <workItem from="1734638617087" duration="122000" />
+      <workItem from="1734690948971" duration="2076000" />
+      <workItem from="1735899467133" duration="31000" />
+      <workItem from="1735899510357" duration="235000" />
+      <workItem from="1736798736402" duration="251000" />
+      <workItem from="1736850078069" duration="6000" />
+      <workItem from="1736866232218" duration="2041000" />
+      <workItem from="1736871473777" duration="11000" />
+      <workItem from="1736917122931" duration="35000" />
+      <workItem from="1736917869606" duration="20000" />
+      <workItem from="1736918041868" duration="13000" />
+      <workItem from="1738235874971" duration="98000" />
+      <workItem from="1739380849455" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLSyntaxErrorException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FedhaDatabase.java</url>
+          <line>640</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AdminBar.java</url>
+          <line>1278</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AdminBar.java</url>
+          <line>889</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FedhaDatabase.java</url>
+          <line>539</line>
+          <properties class="FedhaDatabase" method="insertFixedDeposits">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MemberInformation.java</url>
+          <line>399</line>
+          <properties class="MemberInformation" method="createLoanRepaymentInfoPanel">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/AdminBar.java</url>
+          <line>810</line>
+          <properties class="AdminBar">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/AdminBar.java</url>
+          <line>819</line>
+          <properties class="AdminBar">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
